@@ -1,5 +1,11 @@
 # viem
 
+## 2.30.1
+
+### Patch Changes
+
+- [#3660](https://github.com/wevm/viem/pull/3660) [`1bde5ecadbd9f97220a51fee519dbb09f1a940ea`](https://github.com/wevm/viem/commit/1bde5ecadbd9f97220a51fee519dbb09f1a940ea) Thanks [@ersanyakit](https://github.com/ersanyakit)! - Updated chiliz RPC URLs.
+
 ## 2.30.0
 
 ### Minor Changes
